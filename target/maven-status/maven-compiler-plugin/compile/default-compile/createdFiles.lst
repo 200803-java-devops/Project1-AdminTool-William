@@ -1,0 +1,4 @@
+Will\App.class
+Will\SQL\DBconnect.class
+Will\SQL\getter.class
+Will\SQL\DAO.class

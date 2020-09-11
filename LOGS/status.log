@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-08-19T14:08:38.904718700Z</date>
+  <millis>1597846118904</millis>
+  <nanos>718700</nanos>
+  <sequence>0</sequence>
+  <logger>main.java.thread.myThread</logger>
+  <level>INFO</level>
+  <class>main.java.thread.myThread</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>S&amp;P500 3350.23 at 10:08:38.898717300</message>
+</record>
+<record>
+  <date>2020-08-19T14:09:38.919886300Z</date>
+  <millis>1597846178919</millis>
+  <nanos>886300</nanos>
+  <sequence>1</sequence>
+  <logger>main.java.thread.myThread</logger>
+  <level>INFO</level>
+  <class>main.java.thread.myThread</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>S&amp;P500 3350.23 at 10:09:38.919886300</message>
+</record>
+<exception> NullPointerException com.Package.SQL.addStock [32,12] </exception>
+
+<exception>
+</log>
